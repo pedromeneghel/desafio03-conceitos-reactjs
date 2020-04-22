@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#especificacao-dos-testes">Especificação dos testes</a>
+  <a href="#específicação-dos-testes">Especificação dos testes</a>
 </p>
 
 ## :rocket: Sobre o desafio
